@@ -1,0 +1,13 @@
+Assistant regular 16 - 21 regular-size-text
+Assistant bold 14 - 1
+Assistant regular 45 - 55
+Assistant regular 18 - 24
+Assistant semibold 16 - 21
+Assistant regular 14 - 18
+Assistant regular 12 - 17
+Assistant regular 36 - 55
+Assistant regular 30 - 48
+
+
+Assistant regular 16 - 27 - button line-height
+Assistant regular 14 - 24  - footer-size
